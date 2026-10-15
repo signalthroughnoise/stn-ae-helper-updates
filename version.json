@@ -1,1 +1,1 @@
-{"version": "2.1.4", "notes": "Voice Over: clearer ElevenLabs key errors (says when the key is missing a permission)."}
+{"version": "2.1.5", "notes": "Voice Over: works on smaller ElevenLabs plans (falls back to 24 kHz WAV, then MP3, when 44.1 kHz is not allowed); Voice Over messages now show in the Audio page log."}
