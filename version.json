@@ -1,1 +1,1 @@
-{"version": "2.1.3", "notes": "Fix: Pre-flight, Music & Stock and Burn-in buttons now always respond (moved to their own file so nothing else can block them)."}
+{"version": "2.1.4", "notes": "Voice Over: clearer ElevenLabs key errors (says when the key is missing a permission)."}
