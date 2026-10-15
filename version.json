@@ -1,1 +1,1 @@
-{"version": "2.1.1", "notes": "Voice Over now uses free Mac voices by default (ElevenLabs optional with your own key; no key ships). Plus 2.1.0: Prep Pre-flight and Music & Stock report."}
+{"version": "2.1.2", "notes": "Fix: the old shared ElevenLabs key is now properly removed, so Voice Over switches to Mac voices. Includes 2.1.x: Prep Pre-flight, Music & Stock report, Mac voices."}
